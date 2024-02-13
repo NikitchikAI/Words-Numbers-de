@@ -1,4 +1,5 @@
 # Words-Numbers-de
+The translation is only for numbers from 0 to 999
 Rules for writing words in English:  
         {"null", 0},
         {"ein", 1},
